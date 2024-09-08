@@ -1,0 +1,10 @@
+C:\Users\KRK12\source\repos\Executor\bin\Debug\Executor.exe.config
+C:\Users\KRK12\source\repos\Executor\bin\Debug\Executor.exe
+C:\Users\KRK12\source\repos\Executor\bin\Debug\Executor.pdb
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.csproj.AssemblyReference.cache
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.Form1.resources
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.Properties.Resources.resources
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.csproj.GenerateResource.cache
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.csproj.CoreCompileInputs.cache
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.exe
+C:\Users\KRK12\source\repos\Executor\obj\Debug\Executor.pdb
